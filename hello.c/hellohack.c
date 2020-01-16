@@ -8,7 +8,7 @@ Date: 2020/01/16
 int main(void) 
 {
 printf("Matthew Pearson\n");
-printf("Undeclared\n");
+printf("Undeclared\n")
 
 return 0;
 }
