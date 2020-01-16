@@ -1,4 +1,4 @@
-*/
+*/Hack 1 Printing name and major
 Name: Matthew Pearson
 Date: 2020/01/16
 /*
